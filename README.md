@@ -67,15 +67,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abderraoufzekkour&theme=dark" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abderraoufzekkour&theme=dracula" alt="profile summary" />
-</p>
 
 ### 📫 Contact
 
