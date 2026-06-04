@@ -70,14 +70,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abderraoufzekkour&show_icons=true&theme=dark" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abderraoufzekkour&show_icons=true&theme=dark&count_private=true" alt="github stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderraoufzekkour&layout=compact&theme=dark" alt="top languages" />
 </p>
-
----
 
 ### 📫 Contact
 
